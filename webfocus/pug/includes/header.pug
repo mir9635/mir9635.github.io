@@ -1,0 +1,60 @@
+header.header
+    .container
+        .row.header__top
+            .col-md-4.col-lg-5.col-xl-6.lang
+                .lang__title Язык
+                select.lang__select.js-select
+                    option русский
+                    option английский
+            .col-md-8.col-lg-7.col-xl-6
+                .header__contacts
+                    a(href="javascript:;").switch-view
+                        img.switch-view__img(src="./imgs/eye.svg" alt="eye")
+                    .header__number
+                        a(href="javascript:;").header__number-link +375 (44) 755-01-01
+                        img.header__number-icon(src="./imgs/a1.svg" alt="a1")
+                        img.header__number-icon(src="./imgs/viber.svg" alt="viber")
+                        img.header__number-icon(src="./imgs/whatsapp.svg" alt="whatsapp")
+                    .header__number
+                        a.header__number-link(href="javascript:;") +375 (29) 550-01-01
+                        img.header__number-icon(src="./imgs/mts.svg" alt="mts")
+        .row
+            .col-10.col-md-3.col-lg-4.col-xl-5
+                a(href="index.html").header__logo
+                    img(src="./imgs/logo.svg" alt="logo")
+            .col-2.desktop-hidden
+                a(href="javascript:;").desktop-hidden__btn
+                    span.desktop-hidden__line
+                nav.desktop-hidden__menu
+                    .desktop-hidden__block
+                        a(href="javascript:;").desktop-hidden__close +
+                    ul.desktop-hidden__list
+                        li.desktop-hidden__li
+                            a.desktop-hidden__link(href="javascript:;") Главная
+                        li.desktop-hidden__li
+                            a.desktop-hidden__link(href="javascript:;") О нас
+                        li.desktop-hidden__li
+                            a.desktop-hidden__link(href="javascript:;") Услуги
+                        li.desktop-hidden__li
+                            a.desktop-hidden__link(href="javascript:;") Тарифы
+                        li.desktop-hidden__li
+                            a.desktop-hidden__link(href="javascript:;") Инфоцентр
+                        li.desktop-hidden__li
+                            a.desktop-hidden__link(href="javascript:;") Контакты
+            .col-md-9.col-lg-8.col-xl-7.header__menu-wrap
+                nav.header__menu
+                    ul.header__list
+                        li.header__li
+                            a.header__link(href="javascript:;") Главная
+                        li.header__li
+                            a.header__link(href="javascript:;") О нас
+                        li.header__li
+                            a.header__link(href="javascript:;") Услуги
+                        li.header__li
+                            a.header__link(href="javascript:;") Тарифы
+                        li.header__li
+                            a.header__link(href="javascript:;") Инфоцентр
+                        li.header__li
+                            a.header__link(href="javascript:;") Контакты
+                a(href="javascript:;").search
+                    img.search__icon(src="imgs/search.svg" alt="search")

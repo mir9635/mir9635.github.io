@@ -1,0 +1,160 @@
+.header{
+  padding: 15px 0;
+  font-family: "Commissioner" ,sans-serif;
+  &__top {
+    margin-bottom: 30px;
+  }
+  &__contacts {
+    @media (min-width: 768px) {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  &__number {
+    display: none;
+    @media (min-width: 768px) {
+      display: block;
+      margin-left: 10px;
+      margin-bottom: 0;
+    }
+    @media (min-width: 992px) {
+      margin-left: 30px;
+    }
+    &-link {
+      font-size: 14px;
+    }
+    &-icon {
+      margin-left: 10px;
+    }
+  }
+  &__menu-wrap {
+    display: none;
+    @media (min-width: 768px) {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+  }
+  &__li {
+    display: inline-block;
+    padding: 0 15px 0 0;
+    @media (min-width: 992px) {
+      padding: 0 30px 0 0;
+    }
+  }
+  &__link {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  &__logo {
+    margin: 0 auto;
+    @media (min-width: 768px) {
+      margin: 0;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
+}
+
+.lang {
+  display: flex;
+  align-items: center;
+  &__title {
+    display: inline-block;
+    font-size: 16px;
+  }
+  &__select {}
+}
+.switch-view {
+  position: absolute;
+  top: -30px;
+  right: 15px;
+  @media (min-width: 768px) {
+    margin-right: auto;
+    position: relative;
+    top: auto;
+    right: auto;
+  }
+  &__img {}
+}
+.search {
+  display: inline-block;
+  &__icon {}
+}
+.desktop-hidden {
+  display: none;
+  text-align: right;
+  padding: 0 10px 0 0;
+  @media (max-width:767px ) {
+    display: inline-block;
+    &__menu {
+      left: -360px;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      position: fixed;
+      border-bottom: 2px solid #283744;
+      text-transform: uppercase;
+      z-index: 200;
+      background: #F2F2F2;
+      transition: all ease 0.4s;
+      width: 360px;
+      &.active {
+        left: 0;
+        transition: all ease 0.4s;
+      }
+    }
+    &__list {
+      position: relative;
+
+    }
+    &__li {
+      text-align: center;
+    }
+    &__link {
+      display: inline-block;
+      width: 100px;
+      text-align: center;
+      text-decoration: none;
+      line-height: 40px;
+    }
+    &__block {
+      text-align: right;
+      padding: 0 15px 0 0;
+    }
+    &__close {
+      color: #8B0000;
+
+      font-size: 30px;
+      transform: rotate(45deg);
+      display: inline-block;
+    }
+    &__line {
+      height: 5px;
+      width: 20px;
+      background: #808080;
+      border-radius: 2px;
+      display: inline-block;
+      position: relative;
+      &:before,
+      &:after {
+        position: absolute;
+        content: "";
+        height: 5px;
+        width: 20px;
+        background: #808080;
+        border-radius: 2px;
+        left: 0;
+      }
+      &:before {
+        top: -6px;
+      }
+      &:after {
+        top: 6px;
+      }
+    }
+  }
+}

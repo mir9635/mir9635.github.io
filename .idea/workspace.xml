@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e37c71-8664-4ddf-8760-53cdd597f6af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hexal" beforeDir="false" afterPath="$PROJECT_DIR$/hexal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hexal/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hexal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landing" beforeDir="false" afterPath="$PROJECT_DIR$/landing" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/landing/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tasty_cookery" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery" afterDir="false" />
@@ -99,7 +101,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../webfocus" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -110,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604833442915</updated>
-      <workItem from="1604833444062" duration="941000" />
+      <workItem from="1604833444062" duration="6459000" />
     </task>
     <servers />
   </component>
@@ -127,5 +135,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1604852159205">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1604852159205" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1604838192586">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1604838192586" />
   </component>
 </project>

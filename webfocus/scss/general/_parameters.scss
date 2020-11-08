@@ -1,0 +1,33 @@
+//Цвета макета
+$primary-color: #DEC377;
+$text-color: #000;
+
+$gray-color: #84828D;
+$light-color: #F2F2F2;
+
+// Размер шрифта
+$font-size-base: 16px;
+ 
+//GRID
+// Media queries/container
+$desktopM: 1230px; //xl
+$tabletM: 992px; //lg
+$mobileM: 768px; //md
+$smallM: 576px; //sm
+
+
+$desktop: 1229px;
+$tablet: 991px;
+$mobile: 767px;
+$small: 575px;
+
+
+$desktopC: 1200px;
+$tabletC: 970px;
+$mobileC: 750px;
+$smallC: 100%;
+ 
+// Шрифты
+$add-font: 'Lato', sans-serif;
+$body-font: 'Lato', sans-serif;
+$headers-font: 'Commissioner', sans-serif;

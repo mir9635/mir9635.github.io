@@ -1,0 +1,71 @@
+footer.footer
+    .container
+        .row
+            .footer__left
+                .footer__technologies ООО “МК-ПРАВОВЫЕ ТЕХНОЛОГИИ”
+                .footer__title УНП
+                    .footer__text 192710862
+                .footer__title Наш рейтинг
+                    .footer__text 5 из 5 (15 отзывов)
+                .footer__social
+                    a(href="#")
+                        img(src="./imgs/footer-vk.svg" alt="vk").footer__img
+                    a(href="#")
+                        img(src="./imgs/footer-ok.svg" alt="odnoklassniki").footer__img
+                    a(href="#")
+                        img(src="./imgs/footer-ll.svg" alt="linkedin").footer__img
+                    a(href="#")
+                        img(src="./imgs/footer-in.svg" alt="instagram").footer__img
+                    a(href="#")
+                        img(src="./imgs/footer-yt.svg" alt="youtube").footer__img
+                    a(href="#")
+                        img(src="./imgs/footer-fb.svg" alt="facebook").footer__img
+                .footer__links
+                    a(href="#").footer__link Карта сайта
+                .footer__links
+                    a(href="#").footer__link Политика конфиденциальности
+            .footer__center
+                .footer-block
+                    .footer-block__title Наши офисы
+                    .row
+                        mixin footer-item(text,additional)
+                            .footer-item-m
+                                .footer-item__subtitle.footer-item__subtitle-m Адрес
+                                .footer-item__text.footer-item__text-m=text
+                                .footer-item__subtitle.footer-item__subtitle-m=additional
+                        .col-md-4
+                            .footer-item__title Контакты в Минске
+                            a(href="#").footer-block__tel +375 (44) 755-01-01
+                            a(href="#").footer-block__tel +375 (29) 550-01-01
+                            a(href="#").footer-block__tel +375 (17) 374-40-60
+                            .footer-item
+                                .footer-item__subtitle Адрес
+                                .footer-item__text г. Минск, ул. Широкая, д. 3, пом. 146, оф. 4
+                                .footer-item__subtitle Телефон для связи резидентов Российской Федерации
+                            a(href="#").footer-block__ws whatsapp +7 (989) 166 24 00
+                            a(href="#").footer-block__email info@jurisprudent.by
+                        .col-md-4
+                            .footer-item__title.footer-item__title-m Отдел в Могилеве
+                            +footer-item('г. Минск, ул. Широкая, д. 3, пом. 146, оф. 4','mogilev@jurisprudent.by')
+                            .footer-item__title.footer-item__title-m Отдел в Бресте
+                            +footer-item('г. Минск, ул. Широкая, д. 3, пом. 146, оф. 4','brest@jurisprudent.by')
+                            .footer-item__title.footer-item__title-m Отдел в Витебске
+                            +footer-item('г. Минск, ул. Широкая, д. 3, пом. 146, оф. 4','vitebsk@jurisprudent.by')
+                        .col-md-4
+                            .footer-item__title.footer-item__title-m Отдел в Гродно
+                            +footer-item('г. Минск, ул. Широкая, д. 3, пом. 146, оф. 4','grodno@jurisprudent.by')
+                            .footer-item__title.footer-item__title-m Отдел в Гомеле
+                            +footer-item('г. Минск, ул. Широкая, д. 3, пом. 146, оф. 4','gomel@jurisprudent.by')
+            .footer__right
+                .footer-block
+                    .footer-block__title Время работы
+                    mixin footer-working(reception,time,weekends)
+                        .footer-working
+                            .footer-working__reception=reception
+                            .footer-working__time=time
+                            .footer-working__weekends=weekends
+                    +footer-working('Прием посетителей','Ежедневно с 8.00 до 19.00','Выходной: суббота - воскресенье.')
+                    +footer-working('Прием звонков','Ежедневно с 8.00 до 22.00','Без выходных')
+                    +footer-working('Онлайн консультант','Круглосуточно 24/7','Без выходных')
+    .footer__bottom
+        .footer__bottom-text Разработка и продвижение сайта - Digital агентство «Веб Фокус»
