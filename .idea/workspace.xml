@@ -20,63 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e37c71-8664-4ddf-8760-53cdd597f6af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexal" beforeDir="false" afterPath="$PROJECT_DIR$/hexal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexal/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landing" beforeDir="false" afterPath="$PROJECT_DIR$/landing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/landing/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/fonts/Circe-ExtraBold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/fonts/Circe-ExtraBold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/fonts/Circe-ExtraBold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/fonts/Circe-ExtraBold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/fonts/Circe-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/fonts/Circe-Light.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/fonts/Circe-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/fonts/Circe-Light.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/fonts/Circe-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/fonts/Circe-Regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/fonts/Circe-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/fonts/Circe-Regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/footer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/footer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/header-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section11.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section11.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section12.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section12.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section13.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section13.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section14.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section14.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section15.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section15.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section21.png" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section22.png" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section23.png" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section3-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section3-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section41.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section42.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/section43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/section43.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/woman-after.png" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/woman-after.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/woman-before.png" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/woman-before.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/imgs/woman.png" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/imgs/woman.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/js/app.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/js/plugins.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/js/plugins.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/pug/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/pug/includes/footer.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/pug/includes/header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/pug/includes/header.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/pug/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/pug/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/pug/template/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/pug/template/layout.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/app.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/components/_blocks.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/components/_blocks.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/components/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/components/_stylesheet.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/components/_stylesheet.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/general/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/general/_common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/general/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/general/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/general/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/general/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/general/_parameters.scss" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/general/_parameters.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/assets/templates/scss/plugins.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/tasty_cookery/scss/plugins.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasty_cookery" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../webfocus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604833442915</updated>
       <workItem from="1604833444062" duration="6459000" />
+      <workItem from="1604861551800" duration="370000" />
     </task>
     <servers />
   </component>
@@ -135,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1604852159205">
