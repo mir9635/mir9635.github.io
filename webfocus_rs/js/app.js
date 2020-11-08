@@ -36,7 +36,7 @@ var Application = {
         autoplay: true,
         loop: true,
         margin: 0,
-        navText: ['<img src="../imgs/chevron-left.svg" />', '<img src="../imgs/chevron-right.svg" />'],
+        navText: ['<img src="../webfocus_rs/imgs/chevron-left.svg" />', '<img src="../webfocus_rs/imgs/chevron-right.svg" />'],
         responsive: {
           0: {
             items: 1,
@@ -53,7 +53,7 @@ var Application = {
         autoplay: true,
         loop: true,
         margin: 0,
-        navText: ['<img src="../imgs/chevron-left.svg" />', '<img src="../imgs/chevron-right.svg" />'],
+        navText: ['<img src="../webfocus_rs/imgs/chevron-left.svg" />', '<img src="../webfocus_rs/imgs/chevron-right.svg" />'],
         responsive: {
           0: {
             items: 1,
@@ -70,7 +70,7 @@ var Application = {
         autoplay: true,
         loop: true,
         margin: 0,
-        navText: ['<img src="../imgs/chevron-left.svg" />', '<img src="../imgs/chevron-right.svg" />'],
+        navText: ['<img src="../webfocus_rs/imgs/chevron-left.svg" />', '<img src="../webfocus_rs/imgs/chevron-right.svg" />'],
         responsive: {
           0: {
             items: 1,
