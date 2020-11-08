@@ -20,8 +20,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e37c71-8664-4ddf-8760-53cdd597f6af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/landing" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasty_cookery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landing_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasty_cookery_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/Commissioner-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/Commissioner-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Black.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-BlackItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Hairline.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Hairline.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-HairlineItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-HairlineItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Heavy.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Heavy.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-HeavyItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-HeavyItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-LightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-MediumItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Semibold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Semibold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-SemiboldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-SemiboldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/fonts/subset-Lato-ThinItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/a1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/chevron-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/chevron-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/footer-fb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/footer-in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/footer-ll.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/footer-ok.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/footer-vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/footer-yt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/mts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section121.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section122.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section123.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section124.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section21.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section22.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section23.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section24.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section41.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section42.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section43.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section44.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section45.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section46.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section47.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section48.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section49.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/section9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/viber.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/imgs/whatsapp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/js/app.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/js/plugins.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/js/plugins/inputmask.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/js/plugins/jquery.inputmask.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/pug/includes/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/pug/includes/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/pug/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/pug/template/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/app.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/components/_blocks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/components/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/components/_formstyler.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/components/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/components/_stylesheet.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/general/_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/general/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/general/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/general/_parameters.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webfocus/scss/plugins.min.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604833442915</updated>
       <workItem from="1604833444062" duration="6459000" />
-      <workItem from="1604861551800" duration="370000" />
+      <workItem from="1604861551800" duration="711000" />
     </task>
     <servers />
   </component>
