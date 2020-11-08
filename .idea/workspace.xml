@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06e37c71-8664-4ddf-8760-53cdd597f6af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hexal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasty_cookery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/plugins.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-LightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamPro.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamProNarrow-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamProNarrow-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamProNarrow-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamProNarrow-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamProNarrow-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/GothamProNarrow-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-BlackItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-LightItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-MediumItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-ThinItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Roboto-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/form.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/list1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/men.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section1-list8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section10-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section10-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section2-list9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section3bi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section3bi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section4-list1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section4-list2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section4-list3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section4-list4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section4-list5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section6-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section6-list1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section6-list2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section6-list3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section6-list4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section7-tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section8-100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section9-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section9-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section9-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/section9-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1k0NF8MfAOoQzX9D68Vgu4bmpdq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06e37c71-8664-4ddf-8760-53cdd597f6af" name="Default Changelist" comment="" />
+      <created>1604833442915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604833442915</updated>
+      <workItem from="1604833444062" duration="560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
