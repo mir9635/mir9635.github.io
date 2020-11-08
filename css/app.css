@@ -598,3 +598,11 @@ button {
     -webkit-box-flex: 0;
     flex: 0 0 100%;
     max-width: 100%; } }
+
+.portfolio-item {}
+.portfolio-item__img {}
+.portfolio-item__img img {
+  max-width: 100%;
+}
+.portfolio-item__link {}
+.portfolio-item__link a {}
