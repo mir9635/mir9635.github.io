@@ -195,7 +195,7 @@ button {
 
 @media (min-width: 1590px) {
   .container {
-    max-width: 1560px; } }
+    max-width: 1200px; } }
 
 .row {
   display: -ms-flexbox;
